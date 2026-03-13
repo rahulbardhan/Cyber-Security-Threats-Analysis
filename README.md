@@ -12,6 +12,7 @@ The dashboard transforms raw cybersecurity data into **visual insights**, helpin
 
 The project demonstrates the use of **data visualization, business intelligence, and cybersecurity analytics** to support informed decision-making.
 
+---
 
 ## 🎯 Objectives
 
@@ -21,6 +22,7 @@ The project demonstrates the use of **data visualization, business intelligence,
 - Visualize **financial impact of cyberattacks**
 - Build an **interactive business intelligence dashboard**
 
+---
 
 ## 📊 Dataset
 
@@ -40,6 +42,7 @@ Dataset includes:
 - Severity Level
 - Response Time (Hours)
 
+---
 
 ## 🖥️ Dashboard Pages
 
@@ -53,6 +56,7 @@ Key metrics include:
 - Percentage of critical attacks
 - Year-wise attack trends
 
+---
 
 ### 2️⃣ Geographical Insights
 
@@ -63,7 +67,7 @@ Highlights:
 - Countries with highest attack frequency
 - Regional cybersecurity patterns
 
-
+---
 
 ### 3️⃣ Industry Impact Analysis
 
@@ -76,6 +80,7 @@ Most targeted industries include:
 - Government
 - Technology
 
+---
 
 ### 4️⃣ Attack Types & Vulnerabilities
 
@@ -86,6 +91,7 @@ Breakdown of cyberattack categories such as:
 - Man-in-the-Middle
 - Malware
 
+---
 
 ## 📈 Key Insights
 
@@ -96,6 +102,7 @@ Breakdown of cyberattack categories such as:
 - **Most Targeted Industries:** Finance & Healthcare
 - **Average Response Time:** ~45 Hours
 
+---
 
 ## 🛠 Technologies Used
 
@@ -108,6 +115,7 @@ Breakdown of cyberattack categories such as:
 | **GitHub**           | Project Version Control |
 | **Microsoft Copilot** | AI-Assisted Analysis |
 
+---
 
 ## 📂 Project Structure
 
@@ -129,20 +137,23 @@ Cyber Security-Threats-Analysis
 └── cybersecurity_attack_analysis_presentation.pptx
 └── cybersecurity_attack_analysis_presentation.pdf
 
+---
+
 ## 📷 Dashboard Screenshots
 
 ### Overview Dashboard
-![Overview](screenshots/overview.png)
+![Overview](https://github.com/rahulbardhan/Cyber-Security-Threats-Analysis/blob/main/screenshots/1_overview.png)
 
 ### Geographical Insights
-![Geographical](screenshots/geographical_insights.png)
+![Geographical](https://github.com/rahulbardhan/Cyber-Security-Threats-Analysis/blob/main/screenshots/2_geographical_insights.png)
 
 ### Industry Impact Analysis
-![Industry Impact](screenshots/industry_impact.png)
+![Industry Impact](https://github.com/rahulbardhan/Cyber-Security-Threats-Analysis/blob/main/screenshots/3_industry_impact.png)
 
 ### Attack Types & Vulnerabilities
-![Attack Types](screenshots/attack_types.png)
+![Attack Types](https://github.com/rahulbardhan/Cyber-Security-Threats-Analysis/blob/main/screenshots/4_attack_types.png)
 
+---
 
 ## 🚀 Future Improvements
 
@@ -152,6 +163,7 @@ Cyber Security-Threats-Analysis
 - Develop **mobile-optimized dashboards**
 - Integrate **AI-based anomaly detection systems**
 
+---
 
 ## 🔗 References
 
